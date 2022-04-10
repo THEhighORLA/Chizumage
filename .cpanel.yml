@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/izol92nrt5qb/public_html/
-    -/bin/rsync -av /public $DEPLOYPATH
+    - /bin/rsync -av /public $DEPLOYPATH
